@@ -70,3 +70,8 @@ header{
 .derecha{
 	right: 10px;
 }
+footer p{
+	font-size: 15px;
+	color: #929292;
+	margin-top: 10vh;
+}
